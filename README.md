@@ -1,4 +1,18 @@
-## Foundry
+## Token Staking Smart Contract
+
+NFT-Staking Smart Contract for 1 month, 6months, and 12 months.
+
+## Vesting
+
+#### Get all Tokens Details
+
+| Duration     | APR Reward % | Reward Tokens |
+| :----------- | :----------- | :------------ |
+| 01 Month     | `05`         | RewardToken           |
+| 06 Months    | `10`         | RewardToken           |
+| 12 Months    | `15`         | RewardToken           |
+| After 1 Year | `15`         | RewardToken           |
+
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
