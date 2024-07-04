@@ -8,8 +8,8 @@ out/
 /broadcast/**/dry-run/
 
 #files
-lib
 .DS_Store
+lib
 
 # Docs
 docs/
